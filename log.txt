@@ -1,0 +1,47 @@
+commit 9971317e733efad944469831f7fb050ca57708a7
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 15 20:35:28 2022 +0200
+
+    I added the none and reverse methods
+
+commit 9da47ee0de8f4d15e5251d652e7749d6533cdc48
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Sun Mar 13 14:59:16 2022 +0200
+
+    I added the reverse and reinvert methods
+
+commit 5f8a15d10cc62b1b5162bcb69aca13a95fb1420d
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Sun Mar 13 10:41:45 2022 +0200
+
+    I added the Extractor file
+
+commit 5ef016aca632d0915cca32b6e58aaf6c01bd1103
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Sun Mar 13 10:39:07 2022 +0200
+
+    I added new methods to invert and reinvert
+
+commit 9237321917eb1f8f589e2260e3ee3c0318ba0453
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Sat Mar 5 12:57:25 2022 +0200
+
+    I added the Makefile to help run code
+
+commit ba124defe2090d77ff0a2c5041a8dd26cfa1bee1
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Sat Mar 5 11:23:18 2022 +0200
+
+    I added the header file FrameSeqence.cpp
+
+commit 32c7c3a93b46dce129c4c7393cf5a4ea6569f2a4
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Sat Mar 5 11:22:04 2022 +0200
+
+    I modified FrameSeqence.h
+
+commit 14e300b9c402e877fbf2f9f96759223b542b0bae
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Sat Mar 5 11:09:28 2022 +0200
+
+    I added the header file FrameSeqence.h
